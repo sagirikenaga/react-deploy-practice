@@ -1,0 +1,10 @@
+FOR ACTIVITY 3:
+
+index.js kicks off first component 
+--> renders template engine 
+
+require does not work in browser but important do 
+import = part of ES6 ? 
+
+app.js = function of the app() result 
+place the welcome component and place inside the div??? 
