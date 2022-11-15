@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/react-deploy-practice/static/js/main.67897cff.js",
+    "index.html": "/react-deploy-practice/index.html",
+    "main.67897cff.js.map": "/react-deploy-practice/static/js/main.67897cff.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.67897cff.js"
+  ]
+}
